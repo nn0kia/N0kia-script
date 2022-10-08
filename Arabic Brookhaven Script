@@ -1,2 +1,3 @@
-loadstring(game:HttpGet("https://www.klgrth.io/paste/mczya/raw"))()
 loadstring(game:HttpGet("https://www.klgrth.io/paste/w5pcd/raw"))()
+wait(0.5)
+loadstring(game:HttpGet("https://www.klgrth.io/paste/mczya/raw"))()
