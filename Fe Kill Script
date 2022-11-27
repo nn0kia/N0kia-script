@@ -43,5 +43,5 @@ Humanoid.Parent = plr.Character
 Tool.Parent = plr.Character
 game.Players.LocalPlayer.Character.Humanoid:ChangeState(15)
 firetouchinterest(Target.Character.HumanoidRootPart, Tool.Handle, 0);
-wait()
+wait(0.01)
 game:GetService'TeleportService':TeleportToPlaceInstance(game.PlaceId,game.JobId,game:GetService'Players'.LocalPlayer)
